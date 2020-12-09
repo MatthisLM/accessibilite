@@ -1,6 +1,9 @@
+*{
+    font-display: swap;
+}
 h1 { font-size: 2.4em; }
 p { font-size: 1.4em; } 
-li { font-size: 1.4em; } 
+li { font-size: 1.4em; }
 
 #img-article {
   background-image: url('../img/top.jpg');
